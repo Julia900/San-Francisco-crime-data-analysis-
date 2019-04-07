@@ -1,8 +1,6 @@
 # San Francisco crime data analysis
 
-This github repo is for a Spark project which runs in Databricks notebook with the link below:
-
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7013231265166348/2038816705106786/2454000187595121/latest.html
+This github repo is for a Spark project which runs in Databricks notebook with the link in the description.
 
 If you want to run the file by yourself:
 - import the notebook with the link above into your databricks
